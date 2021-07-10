@@ -1,0 +1,202 @@
+span {
+    color: rgb(231, 118, 37);
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+
+
+}
+
+
+.sec1 {
+    display: flex;
+    margin: 40px;
+    padding-left: 20px;
+    padding-top: 35px;
+
+
+
+
+
+}
+
+.one1 {
+
+    padding-top: 70px;
+    padding-left: 20px;
+
+    width: 50%;
+
+
+}
+
+.one1 h1 {
+    font-size: 40px;
+}
+
+.one1 p {
+    width: 500px;
+    margin-bottom: 70px;
+}
+
+.one2 img {
+    padding-left: 60px;
+}
+
+
+
+
+
+
+.ancor {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 81, 0), orange);
+    border-radius: 19px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.order {
+    color: ghostwhite;
+}
+
+
+.sec2 {
+
+
+    display: flex;
+
+
+
+
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.two2 {
+
+    padding-top: 70px;
+    padding-left: 100px;
+    margin-bottom: 200px;
+
+    width: 50%;
+
+
+}
+
+.two2 h1 {
+    font-size: 40px;
+}
+
+.two2 p {
+    width: 369px;
+    margin-bottom: 70px;
+}
+
+.two1 img {
+    width: 50%;
+    padding-left: 200px;
+
+}
+
+.sec3 {
+    text-align: center;
+
+    margin-bottom: 50px;
+
+
+}
+
+.sec4 {
+    display: flex;
+    margin-bottom: 150px;
+
+}
+
+.sec4 img {
+    width: 100%;
+    border-radius: 20px;
+
+}
+
+.sec4 p {
+    width: 100%;
+    text-align: left
+}
+
+.t {
+    width: 30%;
+    margin: 0 2%;
+    box-shadow: 1px 1px 20px grey;
+    padding: 25px;
+    border-radius: 30px;
+}
+
+.h {
+    width: 30%;
+    margin: 0 2%;
+    box-shadow: 1px 1px 20px grey;
+    padding: 25px;
+    border-radius: 30px;
+}
+
+.i {
+    width: 30%;
+    margin: 0 2%;
+    box-shadow: 1px 1px 20px grey;
+    padding: 25px;
+    border-radius: 30px;
+}
+
+.sec5 {
+    display: flex;
+    margin-left: 199px;
+    margin-right: 199px;
+    padding-left: 90px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+    box-shadow: 8px 5px 50px rgb(112, 106, 106);
+    margin-bottom: 50px;
+}
+
+div {
+    width: 50%;
+}
+
+footer {
+    text-align: center;
+    color: darkslategray;
+    background-color: rgb(22, 22, 31);
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+footer h5 {
+    color: ghostwhite;
+}
+
+.lol {
+    color: chocolate;
+}
+
+.top {
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    display: flex;
+
+}
+
+.active {
+    text-decoration: none;
+    color: ghostwhite;
+}
